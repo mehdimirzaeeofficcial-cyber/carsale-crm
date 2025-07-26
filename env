@@ -1,0 +1,11 @@
+(این قسمت را با اطلاعات خودتان تغییر دهید)
+REACT_APP_COMPANY_NAME=شرکت میعاد خودرو
+REACT_APP_COMPANY_PHONE=021-91690904
+REACT_APP_COMPANY_MOBILE=0912-1790159
+REACT_APP_COMPANY_EMAIL=miaadkhodro@gmail.com
+REACT_APP_COMPANY_WEBSITE=www.miaadkhodro.com
+REACT_APP_COMPANY_ADDRESS=تهران، خیابان ایت الله کاشانی  پلاک 120
+
+# تنظیمات فنی
+REACT_APP_API_URL=http://localhost:5000/api
+REACT_APP_VERSION=1.0.0
