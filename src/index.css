@@ -1,0 +1,20 @@
+tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/font-face.css');
+
+body {
+  font-family: 'Vazir', 'Tahoma', 'Arial', sans-serif;
+  direction: rtl;
+  margin: 0;
+  background-color: #f3f4f6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  direction: rtl;
+}
